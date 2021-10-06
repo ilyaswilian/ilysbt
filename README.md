@@ -9,7 +9,7 @@
   <a href="https://github.com/TheGetsuzoThunder"><img title="Author" src="https://img.shields.io/badge/ThunderX7-ZNX%20INVASION-red" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/62853338317160">OWNER</a>
+  <a href="https://wa.me/62895704283153">OWNER</a>
 </h4>
 </p>
 
@@ -27,8 +27,8 @@ Update fake vn dan laen laen
 > apt-get install bash -y
 > apt-get install ffmpeg -y
 > apt-get install libwebp -y
-> git clone https://github.com/TheGetsuzoThunder/znxinvasion
-> cd znxinvasion
+> git clone https://github.com/ilyaswilian/ilysbt
+> cd ilysbt
 > bash wibu.sh
 > npm start
 ```
